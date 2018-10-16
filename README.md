@@ -13,3 +13,5 @@ This project is a command line node app that allows you to look up information u
 To use this, you will need to install node module packages and provide your own Spotify, BandsInTown, and OMDB keys to use the APIs.  
 
 I have included a screenshot of what happens when you run the file with node.  liriWORKS.png.
+
+![liri-node-app](liriWORKS.png)
